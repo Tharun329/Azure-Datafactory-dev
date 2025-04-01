@@ -1,0 +1,9 @@
+{
+	"name": "covid19rpt-df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9bac0bf-ce7d-406f-8234-17417d3e1f96",
+		"tenantId": "5d2d9e33-bd77-46e1-b1e6-721c91c9373e"
+	}
+}
